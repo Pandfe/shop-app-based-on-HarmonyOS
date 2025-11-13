@@ -1,0 +1,15 @@
+{
+  "module": {
+    "name": "mine_test",
+    "type": "feature",
+    "deviceTypes": [
+      "default",
+      "tablet",
+      "2in1",
+      "wearable",
+      "tv"
+    ],
+    "deliveryWithInstall": true,
+    "installationFree": false
+  }
+}

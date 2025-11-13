@@ -1,0 +1,17 @@
+{
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    // 引入依赖包
+    "basic": "file:../../common/basic",
+    "home": "file:../../features/home",
+    "shop": "file:../../features/shop",
+    "cart": "file:../../features/cart",
+    "mine": "file:../../features/mine"
+  }
+}
+
