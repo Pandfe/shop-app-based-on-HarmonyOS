@@ -207,6 +207,6 @@ export struct cartView {
     .width('100%')
     .height('100%')
     .justifyContent(FlexAlign.Center)
-    .backgroundColor('#ccc')
+    .backgroundColor('#F5F5F5')
   }
 }
