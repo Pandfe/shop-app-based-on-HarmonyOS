@@ -16,8 +16,9 @@ interface MenuItem {
 @Component
 export struct mineView {
   @State userInfo: UserInfo = {
-    avatar: 'https://picsum.photos/200',
-    nickname: '鸿蒙用户',
+    avatar: 'https://foruda.gitee.com/avatar/1763101089885231673/16355726_dcoiny_1763101089.png!avatar200',
+    // avatar: 'https://picsum.photos/200',
+    nickname: 'Pandfe',
     level: '普通会员'
   }
 
